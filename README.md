@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kazuhito00/cutmix/master/example.ipynb?filepath=example.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kazuhito00/cutmix/master?filepath=example.ipynb)
 
 # cutmix
 Tensorflow2/KerasのImageDataGenerator向けのcutmixの実装です。
